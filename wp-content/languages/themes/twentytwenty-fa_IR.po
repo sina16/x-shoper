@@ -19,88 +19,60 @@ msgstr "پوستهٔ پیش‌فرض ما برای ۲۰۲۰ طوری طراحی 
 msgid "Twenty Twenty"
 msgstr "بیست بیست"
 
-#: template-parts/entry-author-bio.php:29
-msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
-msgstr "مشاهدهٔ بایگانی <span aria-hidden=\"true\">&larr;</span>"
-
 #: inc/starter-content.php:39
 msgctxt "Theme starter content"
 msgid "The New UMoMA Opens its Doors"
 msgstr "موزهٔ هنر مدرن بازگشایی می‌شود"
+
+#: template-parts/entry-author-bio.php:29
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr "مشاهدهٔ بایگانی <span aria-hidden=\"true\">&larr;</span>"
+
+#: classes/class-twentytwenty-customize.php:183
+msgid "Apply a custom color for links, buttons, featured images."
+msgstr "اعمال رنگ سفارشی برای پیوندها، دکمه‌ها و تصاویر شاخص"
 
 #: inc/template-tags.php:396
 msgctxt "A string that is output before one or more categories"
 msgid "In"
 msgstr "در"
 
-#: inc/starter-content.php:151
-msgid "Join the Club"
-msgstr "پیوستن به محفل"
+#: classes/class-twentytwenty-customize.php:395
+msgid "Overlay Opacity"
+msgstr "تاری پوششی"
 
-#: inc/starter-content.php:148
-msgid "Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually."
-msgstr "اعضا به نمایش‌ها و فروش‌های انحصاری دسترسی خواهند داشت. حق عضویت سالانه ۹۹.۹۹ دلار است."
+#: classes/class-twentytwenty-customize.php:374
+msgid "Overlay Text Color"
+msgstr "رنگ متن پوششی"
 
-#: inc/starter-content.php:145
-msgid "Become a Member and Get Exclusive Offers!"
-msgstr "عضو شوید و پیشنهادهای انحصاری دریافت کنید!"
-
-#: inc/starter-content.php:137
-msgid "The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize."
-msgstr "نمایشگاه‌ها توسط موزهٔ هنر مدرن و با همکاری هنرمندان و موزه‌داران در سراسر دنیا برگزار می‌شوند و غالبا مورد توجه بین المللی قرار می‌گیرند. موزهٔ هنر مدرن، به عنوان موزهٔ برتر سال در اروپا مورد تقدیر ویژه قرار گرفته و نامزد دریافت جایزهٔ موزهٔ برتر سال در سوئد و همچنین جایزهٔ انجمن موزهٔ اروپا بوده است."
-
-#: inc/starter-content.php:134
-msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission"
-msgstr "موزهٔ هنر مدرن، در هفت طبقه با معماری برجسته، نمایشگاه‌های بین‌المللی هنر معاصر را برگزار می‌کند. توجه به مسائل وجودی، سیاسی و فلسفی برنامهٔ اصلی ماست. به عنوان بازدید کننده شما را به یک گردش رایگان شامل گفتگوهای هنری، سخنرانی، نمایش فیلم و … دعوت می‌کنیم."
-
-#: inc/starter-content.php:114
-msgid "From Signac to Matisse"
-msgstr "از سیناک تا ماتیس"
-
-#: inc/starter-content.php:99
-msgid "The Life I Deserve"
-msgstr "آن زندگی که لایقش هستم"
-
-#: inc/starter-content.php:85 inc/starter-content.php:117
-msgid "October 1 -- December 1"
-msgstr "۱۵ مهر -- ۱۵ آذر"
-
-#: inc/starter-content.php:82
-msgid "Theatre of Operations"
-msgstr "صحنهٔ نبرد"
+#: classes/class-twentytwenty-customize.php:123
+msgid "Primary Color"
+msgstr "رنگ اصلی"
 
 #: inc/starter-content.php:73 inc/starter-content.php:88
 #: inc/starter-content.php:105 inc/starter-content.php:120
 msgid "Read More"
 msgstr "ادامه"
 
-#: inc/starter-content.php:70 inc/starter-content.php:102
-msgid "August 1 -- December 1"
-msgstr "۱۵ مرداد -- ۱۵ آذر"
+#: classes/class-twentytwenty-customize.php:125
+msgid "Default"
+msgstr "پیش‌فرض"
+
+#: classes/class-twentytwenty-customize.php:126
+msgid "Custom"
+msgstr "سفارشی"
+
+#: inc/starter-content.php:151
+msgid "Join the Club"
+msgstr "پیوستن به محفل"
 
 #: inc/starter-content.php:67
 msgid "Works and Days"
 msgstr "کارها و روزها"
 
-#: inc/starter-content.php:56
-msgid "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
-msgstr "غایت والای هنر مدرن در شمال سوئد. همه روزه از ۱۰ صبح تا ۶ بعد از ظهر در تابستان."
-
-#: inc/starter-content.php:48
-msgid "The New UMoMA Opens its Doors"
-msgstr "موزهٔ هنر مدرن بازگشایی می‌شود"
-
-#: classes/class-twentytwenty-customize.php:395
-msgid "Overlay Opacity"
-msgstr "تاری پوششی"
-
 #: classes/class-twentytwenty-customize.php:375
 msgid "The color used for the text in the overlay."
 msgstr "رنگی که برای متن در حالت پوششی به کار می‌رود."
-
-#: classes/class-twentytwenty-customize.php:374
-msgid "Overlay Text Color"
-msgstr "رنگ متن پوششی"
 
 #: classes/class-twentytwenty-customize.php:353
 msgid "The color used for the overlay. Defaults to the accent color."
@@ -110,25 +82,65 @@ msgstr "رنگی که برای حالت پوششی به کار می‌رود؛ �
 msgid "Overlay Background Color"
 msgstr "رنگ زمینهٔ پوششی"
 
+#: inc/starter-content.php:70 inc/starter-content.php:102
+msgid "August 1 -- December 1"
+msgstr "۱۵ مرداد -- ۱۵ آذر"
+
+#: inc/starter-content.php:85 inc/starter-content.php:117
+msgid "October 1 -- December 1"
+msgstr "۱۵ مهر -- ۱۵ آذر"
+
+#: inc/starter-content.php:114
+msgid "From Signac to Matisse"
+msgstr "از سیناک تا ماتیس"
+
+#: inc/starter-content.php:82
+msgid "Theatre of Operations"
+msgstr "صحنهٔ نبرد"
+
+#: inc/starter-content.php:56
+msgid "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+msgstr "غایت والای هنر مدرن در شمال سوئد. همه روزه از ۱۰ صبح تا ۶ بعد از ظهر در تابستان."
+
+#: inc/starter-content.php:148
+msgid "Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually."
+msgstr "اعضا به نمایش‌ها و فروش‌های انحصاری دسترسی خواهند داشت. حق عضویت سالانه ۹۹.۹۹ دلار است."
+
+#: inc/starter-content.php:134
+msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission"
+msgstr "موزهٔ هنر مدرن، در هفت طبقه با معماری برجسته، نمایشگاه‌های بین‌المللی هنر معاصر را برگزار می‌کند. توجه به مسائل وجودی، سیاسی و فلسفی برنامهٔ اصلی ماست. به عنوان بازدید کننده شما را به یک گردش رایگان شامل گفتگوهای هنری، سخنرانی، نمایش فیلم و … دعوت می‌کنیم."
+
+#: inc/starter-content.php:137
+msgid "The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize."
+msgstr "نمایشگاه‌ها توسط موزهٔ هنر مدرن و با همکاری هنرمندان و موزه‌داران در سراسر دنیا برگزار می‌شوند و غالبا مورد توجه بین المللی قرار می‌گیرند. موزهٔ هنر مدرن، به عنوان موزهٔ برتر سال در اروپا مورد تقدیر ویژه قرار گرفته و نامزد دریافت جایزهٔ موزهٔ برتر سال در سوئد و همچنین جایزهٔ انجمن موزهٔ اروپا بوده است."
+
+#: inc/starter-content.php:145
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr "عضو شوید و پیشنهادهای انحصاری دریافت کنید!"
+
+#: inc/starter-content.php:99
+msgid "The Life I Deserve"
+msgstr "آن زندگی که لایقش هستم"
+
 #: classes/class-twentytwenty-customize.php:283
 msgid "Settings for the \"Cover Template\" page template. Add a featured image to use as background."
 msgstr "تنظیمات «قالب پوششی» قالب برگه؛ یک تصویر شاخص برای استفاده به عنوان زمینه اضافه کنید."
 
-#: classes/class-twentytwenty-customize.php:183
-msgid "Apply a custom color for links, buttons, featured images."
-msgstr "اعمال رنگ سفارشی برای پیوندها، دکمه‌ها و تصاویر شاخص"
+#: inc/starter-content.php:48
+msgid "The New UMoMA Opens its Doors"
+msgstr "موزهٔ هنر مدرن بازگشایی می‌شود"
 
-#: classes/class-twentytwenty-customize.php:126
-msgid "Custom"
-msgstr "سفارشی"
+#. translators: Copyright date format, see https://www.php.net/date
+#: footer.php:25
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
 
-#: classes/class-twentytwenty-customize.php:125
-msgid "Default"
-msgstr "پیش‌فرض"
-
-#: classes/class-twentytwenty-customize.php:123
-msgid "Primary Color"
-msgstr "رنگ اصلی"
+#. translators: %s: Number of search results.
+#: index.php:39
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] "برای جستجوی شما %s نتیجه پیدا شد."
 
 #: searchform.php:24 template-parts/modal-search.php:20
 msgid "Search for:"
@@ -138,11 +150,9 @@ msgstr "جستجوی"
 msgid "search again"
 msgstr "جستجوی دوباره"
 
-#. translators: %s: Number of search results.
-#: index.php:39
-msgid "We found %s result for your search."
-msgid_plural "We found %s results for your search."
-msgstr[0] "برای جستجوی شما %s نتیجه پیدا شد."
+#: 404.php:24
+msgid "404 not found"
+msgstr "۴۰۴ - پیدا نشد"
 
 #. translators: %s: HTML character for up arrow.
 #: footer.php:49
@@ -154,64 +164,31 @@ msgstr "%s بالا"
 msgid "To the top %s"
 msgstr "%s برو بالا"
 
-#. translators: Copyright date format, see https://www.php.net/date
-#: footer.php:25
-msgctxt "copyright date format"
-msgid "Y"
-msgstr "Y"
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentytwenty-walker-comment.php:69
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
 
-#: 404.php:24
-msgid "404 not found"
-msgstr "۴۰۴ - پیدا نشد"
+#: classes/class-twentytwenty-walker-comment.php:77
+msgid "Edit"
+msgstr "ویرایش"
 
-#. Template Name of the theme
-msgid "Full Width Template"
-msgstr "قالب تمام پهنا"
+#: classes/class-twentytwenty-walker-comment.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار تایید است."
 
-#: template-parts/pagination.php:25
-msgid "Older <span class=\"nav-short\">Posts</span>"
-msgstr "قدیمی‌تر <span class=\"nav-short\">نوشته‌های</span>"
+#: comments.php:34
+msgid "Leave a comment"
+msgstr "دیدگاه خود را بنویسید"
 
-#: template-parts/pagination.php:21
-msgid "Newer <span class=\"nav-short\">Posts</span>"
-msgstr "تازه‌تر <span class=\"nav-short\">نوشته‌های</span>"
+#: inc/starter-content.php:177 inc/starter-content.php:187 functions.php:489
+msgid "Primary"
+msgstr "اصلی"
 
-#: template-parts/navigation.php:25
-msgid "Post"
-msgstr "نوشته"
-
-#: template-parts/modal-search.php:26
-msgid "Close search"
-msgstr "بستن جستجو"
-
-#: template-parts/modal-menu.php:117
-msgid "Expanded Social links"
-msgstr "پیوندهای گستردهٔ شبکه‌های اجتماعی"
-
-#: template-parts/modal-menu.php:73
-msgid "Mobile"
-msgstr "موبایل"
-
-#: template-parts/modal-menu.php:48
-msgid "Expanded"
-msgstr "گسترده"
-
-#: template-parts/modal-menu.php:21
-msgid "Close Menu"
-msgstr "بستن فهرست"
-
-#: template-parts/footer-menus-widgets.php:57
-msgid "Social links"
-msgstr "پیوندهای شبکه‌های اجتماعی"
-
-#: template-parts/footer-menus-widgets.php:37
-msgid "Footer"
-msgstr "پابرگ"
-
-#. translators: %s: Author name.
-#: inc/template-tags.php:357 template-parts/entry-author-bio.php:20
-msgid "By %s"
-msgstr "از %s"
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:207
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ویرایش <span class=\"screen-reader-text\">%s</span>"
 
 #: template-parts/content-cover.php:138 template-parts/content.php:48
 msgid "Pages:"
@@ -221,9 +198,135 @@ msgstr "برگه‌ها:"
 msgid "Page"
 msgstr "برگه"
 
-#: template-parts/content-cover.php:88
-msgid "Scroll Down"
-msgstr "برو پایین"
+#: functions.php:512
+msgid "Background Color"
+msgstr "رنگ زمینه"
+
+#. translators: %s: Author name.
+#: inc/template-tags.php:357 template-parts/entry-author-bio.php:20
+msgid "By %s"
+msgstr "از %s"
+
+#: inc/template-tags.php:392 template-parts/entry-header.php:36
+#: template-parts/content-cover.php:70
+msgid "Categories"
+msgstr "دسته‌ها"
+
+#: template-parts/modal-menu.php:21
+msgid "Close Menu"
+msgstr "بستن فهرست"
+
+#: template-parts/modal-search.php:26
+msgid "Close search"
+msgstr "بستن جستجو"
+
+#: template-parts/content.php:36
+msgid "Continue reading"
+msgstr "ادامه"
+
+#: functions.php:365
+msgid "Footer #1"
+msgstr "پابرگ ۱"
+
+#: functions.php:377
+msgid "Footer #2"
+msgstr "پابرگ ۲"
+
+#: classes/class-twentytwenty-customize.php:269
+msgid "Full text"
+msgstr "تمام متن"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "قالب تمام پهنا"
+
+#: header.php:88
+msgid "Horizontal"
+msgstr "افقی"
+
+#: functions.php:539
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr "بزرگ"
+
+#: functions.php:545
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr "بزرگ‌تر"
+
+#: template-parts/navigation.php:25
+msgid "Post"
+msgstr "نوشته"
+
+#: inc/template-tags.php:374
+msgid "Post date"
+msgstr "تاریخ نوشته"
+
+#: footer.php:33
+msgid "Powered by WordPress"
+msgstr "با نیروی وردپرس"
+
+#: functions.php:533
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr "معمولی"
+
+#: classes/class-twentytwenty-customize.php:81
+msgid "Retina logo"
+msgstr "لوگوی رتینا"
+
+#: classes/class-twentytwenty-walker-comment.php:56
+msgid "says:"
+msgstr ":"
+
+#: inc/template-tags.php:410
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#: classes/class-twentytwenty-customize.php:202
+msgid "Theme Options"
+msgstr "تنظیمات پوسته"
+
+#: classes/class-twentytwenty-customize.php:270
+msgid "Summary"
+msgstr "خلاصه"
+
+#: functions.php:546
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr "XL"
+
+#: template-parts/pagination.php:21
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr "تازه‌تر <span class=\"nav-short\">نوشته‌های</span>"
+
+#: header.php:53 header.php:157
+msgid "Search"
+msgstr "جستجو"
+
+#: header.php:76 header.php:137
+msgid "Menu"
+msgstr "فهرست"
+
+#: index.php:32
+msgid "Search:"
+msgstr "جستجو:"
+
+#: functions.php:260
+msgid "Mobile Menu"
+msgstr "فهرست موبایل"
+
+#: template-parts/footer-menus-widgets.php:57
+msgid "Social links"
+msgstr "پیوندهای شبکه‌های اجتماعی"
+
+#: template-parts/modal-menu.php:48
+msgid "Expanded"
+msgstr "گسترده"
+
+#: template-parts/modal-menu.php:73
+msgid "Mobile"
+msgstr "موبایل"
 
 #: searchform.php:27
 msgctxt "submit button"
@@ -235,196 +338,74 @@ msgctxt "placeholder"
 msgid "Search &hellip;"
 msgstr "جستجو…"
 
-#: index.php:48
-msgid "We could not find any results for your search. You can give it another try through the search form below."
-msgstr "جستجوی شما نتیجه‌ای نداشت. با عبارتی دیگر جستجو کنید."
+#: functions.php:527
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr "کوچک"
 
-#: index.php:32
-msgid "Search:"
-msgstr "جستجو:"
+#: functions.php:379
+msgid "Widgets in this area will be displayed in the second column in the footer."
+msgstr "ابزارک‌های این ناحیه در ستون دوم پابرگ نمایش داده خواهند شد."
 
-#. translators: %s: Post title. Only visible to screen readers.
-#: inc/template-tags.php:207
-msgid "Edit <span class=\"screen-reader-text\">%s</span>"
-msgstr "ویرایش <span class=\"screen-reader-text\">%s</span>"
+#: functions.php:367
+msgid "Widgets in this area will be displayed in the first column in the footer."
+msgstr "ابزارک‌های این ناحیه در ستون اول پابرگ نمایش داده خواهند شد."
 
-#: inc/template-tags.php:448
-msgid "Sticky post"
-msgstr "نوشتهٔ چسبان"
+#: functions.php:262
+msgid "Social Menu"
+msgstr "فهرست شبکه‌های اجتماعی"
 
-#: inc/template-tags.php:410
-msgid "Tags"
-msgstr "برچسب‌ها"
+#: functions.php:258
+msgid "Desktop Horizontal Menu"
+msgstr "فهرست افقی دسکتاپ"
 
-#: inc/template-tags.php:392 template-parts/entry-header.php:36
-#: template-parts/content-cover.php:70
-msgid "Categories"
-msgstr "دسته‌ها"
-
-#: inc/template-tags.php:374
-msgid "Post date"
-msgstr "تاریخ نوشته"
-
-#: inc/template-tags.php:350
-msgid "Post author"
-msgstr "نویسندهٔ نوشته"
-
-#: inc/starter-content.php:197
-msgid "Social Links Menu"
-msgstr "فهرست پیوندهای شبکه‌های اجتماعی"
-
-#: inc/starter-content.php:177 inc/starter-content.php:187 functions.php:489
-msgid "Primary"
-msgstr "اصلی"
-
-#: header.php:88
-msgid "Horizontal"
-msgstr "افقی"
-
-#: header.php:76 header.php:137
-msgid "Menu"
-msgstr "فهرست"
-
-#: header.php:53 header.php:157
-msgid "Search"
-msgstr "جستجو"
-
-#: template-parts/content.php:36
-msgid "Continue reading"
-msgstr "ادامه"
-
-#: functions.php:546
-msgctxt "Short name of the larger font size in the block editor."
-msgid "XL"
-msgstr "XL"
-
-#: functions.php:545
-msgctxt "Name of the larger font size in the block editor"
-msgid "Larger"
-msgstr "بزرگ‌تر"
+#: comments.php:75
+msgid "Older Comments"
+msgstr "دیدگاه‌های قدیمی‌تر"
 
 #: functions.php:540
 msgctxt "Short name of the large font size in the block editor."
 msgid "L"
 msgstr "L"
 
-#: functions.php:539
-msgctxt "Name of the large font size in the block editor"
-msgid "Large"
-msgstr "بزرگ"
-
 #: functions.php:534
 msgctxt "Short name of the regular font size in the block editor."
 msgid "M"
 msgstr "M"
-
-#: functions.php:533
-msgctxt "Name of the regular font size in the block editor"
-msgid "Regular"
-msgstr "معمولی"
 
 #: functions.php:528
 msgctxt "Short name of the small font size in the block editor."
 msgid "S"
 msgstr "S"
 
-#: functions.php:527
-msgctxt "Name of the small font size in the block editor"
-msgid "Small"
-msgstr "کوچک"
+#: index.php:48
+msgid "We could not find any results for your search. You can give it another try through the search form below."
+msgstr "جستجوی شما نتیجه‌ای نداشت. با عبارتی دیگر جستجو کنید."
 
-#: functions.php:512
-msgid "Background Color"
-msgstr "رنگ زمینه"
-
-#: functions.php:499
-msgid "Subtle Background"
-msgstr "زمینهٔ مبهم"
-
-#: functions.php:494
-msgid "Secondary"
-msgstr "فرعی"
+#: template-parts/pagination.php:25
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr "قدیمی‌تر <span class=\"nav-short\">نوشته‌های</span>"
 
 #: functions.php:484
 msgid "Accent Color"
 msgstr "رنگ تاکید"
 
-#: functions.php:379
-msgid "Widgets in this area will be displayed in the second column in the footer."
-msgstr "ابزارک‌های این ناحیه در ستون دوم پابرگ نمایش داده خواهند شد."
-
-#: functions.php:377
-msgid "Footer #2"
-msgstr "پابرگ ۲"
-
-#: functions.php:367
-msgid "Widgets in this area will be displayed in the first column in the footer."
-msgstr "ابزارک‌های این ناحیه در ستون اول پابرگ نمایش داده خواهند شد."
-
-#: functions.php:365
-msgid "Footer #1"
-msgstr "پابرگ ۱"
-
 #: functions.php:340
 msgid "Skip to the content"
 msgstr "جهش به محتوا"
 
-#: functions.php:262
-msgid "Social Menu"
-msgstr "فهرست شبکه‌های اجتماعی"
+#. Template Name of the theme
+#: classes/class-twentytwenty-customize.php:281
+msgid "Cover Template"
+msgstr "قالب پوششی"
 
-#: functions.php:261
-msgid "Footer Menu"
-msgstr "فهرست پابرگ"
-
-#: functions.php:260
-msgid "Mobile Menu"
-msgstr "فهرست موبایل"
-
-#: functions.php:259
-msgid "Desktop Expanded Menu"
-msgstr "فهرست گستردهٔ دسکتاپ"
-
-#: functions.php:258
-msgid "Desktop Horizontal Menu"
-msgstr "فهرست افقی دسکتاپ"
-
-#: footer.php:33
-msgid "Powered by WordPress"
-msgstr "با نیروی وردپرس"
-
-#: comments.php:127
-msgid "Comments are closed."
-msgstr "دیدگاه‌ها غیرفعالند."
-
-#: comments.php:88
-msgid "Comments"
-msgstr "دیدگاه‌ها"
-
-#: comments.php:75
-msgid "Older Comments"
-msgstr "دیدگاه‌های قدیمی‌تر"
+#: classes/class-twentytwenty-customize.php:225
+msgid "Show search in header"
+msgstr "نمایش جستجو در سربرگ"
 
 #: comments.php:74
 msgid "Newer Comments"
 msgstr "دیدگاه‌های تازه‌تر"
-
-#. translators: 1: Number of comments, 2: Post title.
-#: comments.php:41
-msgctxt "comments title"
-msgid "%1$s reply on &ldquo;%2$s&rdquo;"
-msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
-msgstr[0] "%1$s دیدگاه دربارهٔ «%2$s»"
-
-#. translators: %s: Post title.
-#: comments.php:37
-msgctxt "comments title"
-msgid "One reply on &ldquo;%s&rdquo;"
-msgstr "یک پاسخ به «%s»"
-
-#: comments.php:34
-msgid "Leave a comment"
-msgstr "دیدگاه خود را بنویسید"
 
 #: classes/class-twentytwenty-walker-page.php:107 inc/template-tags.php:558
 msgid "Show sub menu"
@@ -435,92 +416,111 @@ msgstr "نمایش زیر فهرست"
 msgid "#%d (no title)"
 msgstr "#%d (بدون عنوان)"
 
-#: classes/class-twentytwenty-walker-comment.php:127
-msgid "By Post Author"
-msgstr "از نویسندهٔ نوشته"
+#: template-parts/footer-menus-widgets.php:37
+msgid "Footer"
+msgstr "پابرگ"
 
-#: classes/class-twentytwenty-walker-comment.php:92
-msgid "Your comment is awaiting moderation."
-msgstr "دیدگاه شما در انتظار تایید است."
+#: functions.php:261
+msgid "Footer Menu"
+msgstr "فهرست پابرگ"
 
-#: classes/class-twentytwenty-walker-comment.php:77
-msgid "Edit"
-msgstr "ویرایش"
+#: inc/starter-content.php:197
+msgid "Social Links Menu"
+msgstr "فهرست پیوندهای شبکه‌های اجتماعی"
 
-#. translators: 1: Comment date, 2: Comment time.
-#: classes/class-twentytwenty-walker-comment.php:69
-msgid "%1$s at %2$s"
-msgstr "%1$s در %2$s"
-
-#: classes/class-twentytwenty-walker-comment.php:56
-msgid "says:"
-msgstr ":"
-
-#: classes/class-twentytwenty-customize.php:396
-msgid "Make sure that the contrast is high enough so that the text is readable."
-msgstr "مطمئن شوید تقابل رنگ‌ها به اندازهٔ کافی بالا و متن قابل خواندن است."
-
-#: classes/class-twentytwenty-customize.php:306
-msgid "Creates a parallax effect when the visitor scrolls."
-msgstr "ایجاد تاثیر اختلاف منظر هنگام نوردش"
-
-#: classes/class-twentytwenty-customize.php:305
-msgid "Fixed Background Image"
-msgstr "تصویر زمینهٔ ثابت"
-
-#. Template Name of the theme
-#: classes/class-twentytwenty-customize.php:281
-msgid "Cover Template"
-msgstr "قالب پوششی"
-
-#: classes/class-twentytwenty-customize.php:270
-msgid "Summary"
-msgstr "خلاصه"
-
-#: classes/class-twentytwenty-customize.php:269
-msgid "Full text"
-msgstr "تمام متن"
+#: comments.php:88
+msgid "Comments"
+msgstr "دیدگاه‌ها"
 
 #: classes/class-twentytwenty-customize.php:267
 msgid "On archive pages, posts show:"
 msgstr "نمایش نوشته‌ها در برگه‌های بایگانی:"
 
-#: classes/class-twentytwenty-customize.php:225
-msgid "Show search in header"
-msgstr "نمایش جستجو در سربرگ"
+#: classes/class-twentytwenty-customize.php:306
+msgid "Creates a parallax effect when the visitor scrolls."
+msgstr "ایجاد تاثیر اختلاف منظر هنگام نوردش"
 
-#: classes/class-twentytwenty-customize.php:202
-msgid "Theme Options"
-msgstr "تنظیمات پوسته"
-
-#: classes/class-twentytwenty-customize.php:101
-msgid "Header &amp; Footer Background Color"
-msgstr "رنگ زمینهٔ سربرگ و پابرگ"
-
-#: classes/class-twentytwenty-customize.php:82
-msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
-msgstr "تغییر مقیاس لوگو به نصف اندازهٔ بارگذاری شده باعث وضوح آن در نمایش‌گرهای رزولوشن بالا می‌شود."
-
-#: classes/class-twentytwenty-customize.php:81
-msgid "Retina logo"
-msgstr "لوگوی رتینا"
-
-#: 404.php:19
-msgid "The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place."
-msgstr "صفحهٔ مورد نظر شما پیدا نشد. شاید حذف شده، تغییر نام یافته یا منتقل شده است."
+#: functions.php:494
+msgid "Secondary"
+msgstr "فرعی"
 
 #: 404.php:17
 msgid "Page Not Found"
 msgstr "صفحه پیدا نشد"
 
-#. Author URI of the theme
-#: footer.php:32
-msgid "https://wordpress.org/"
-msgstr "https://fa.wordpress.org/"
+#: 404.php:19
+msgid "The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place."
+msgstr "صفحهٔ مورد نظر شما پیدا نشد. شاید حذف شده، تغییر نام یافته یا منتقل شده است."
+
+#: functions.php:499
+msgid "Subtle Background"
+msgstr "زمینهٔ مبهم"
+
+#: classes/class-twentytwenty-customize.php:82
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "تغییر مقیاس لوگو به نصف اندازهٔ بارگذاری شده باعث وضوح آن در نمایش‌گرهای رزولوشن بالا می‌شود."
+
+#: template-parts/modal-menu.php:117
+msgid "Expanded Social links"
+msgstr "پیوندهای گستردهٔ شبکه‌های اجتماعی"
+
+#: inc/template-tags.php:448
+msgid "Sticky post"
+msgstr "نوشتهٔ چسبان"
+
+#: inc/template-tags.php:350
+msgid "Post author"
+msgstr "نویسندهٔ نوشته"
+
+#: functions.php:259
+msgid "Desktop Expanded Menu"
+msgstr "فهرست گستردهٔ دسکتاپ"
+
+#: classes/class-twentytwenty-walker-comment.php:127
+msgid "By Post Author"
+msgstr "از نویسندهٔ نوشته"
+
+#: classes/class-twentytwenty-customize.php:396
+msgid "Make sure that the contrast is high enough so that the text is readable."
+msgstr "مطمئن شوید تقابل رنگ‌ها به اندازهٔ کافی بالا و متن قابل خواندن است."
+
+#: classes/class-twentytwenty-customize.php:305
+msgid "Fixed Background Image"
+msgstr "تصویر زمینهٔ ثابت"
+
+#: classes/class-twentytwenty-customize.php:101
+msgid "Header &amp; Footer Background Color"
+msgstr "رنگ زمینهٔ سربرگ و پابرگ"
+
+#. translators: %s: Post title.
+#: comments.php:37
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "یک پاسخ به «%s»"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه دربارهٔ «%2$s»"
+
+#: comments.php:127
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها غیرفعالند."
+
+#: template-parts/content-cover.php:88
+msgid "Scroll Down"
+msgstr "برو پایین"
 
 #. Author of the theme
 msgid "the WordPress team"
 msgstr "تیم وردپرس"
+
+#. Author URI of the theme
+#: footer.php:32
+msgid "https://wordpress.org/"
+msgstr "https://fa.wordpress.org/"
 
 #. Theme URI of the theme
 msgid "https://wordpress.org/themes/twentytwenty/"

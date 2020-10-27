@@ -11,13 +11,13 @@ msgstr ""
 "Language: fa\n"
 "Project-Id-Version: Themes - Twenty Sixteen\n"
 
-#. Theme Name of the theme
-msgid "Twenty Sixteen"
-msgstr "دوهزار و شانزده"
-
 #. Description of the theme
 msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
 msgstr "دوهزاروشانزده برداشتی مدرن از پوسته‌های همیشگی وردپرس، با سربرگی افقی و نوار کناری اختیاری، مناسب برای وبلاگ‌ها و سایت‌ها است. این پوسته دارای گزینه‌های رنگ سفارشی و پوسته‌های رنگی پیشفرض زیبا و دارای صفحه‌بندی سیال و سازگار با موبایل است. دوهزاروشانزده وردپرس شما را از همیشه زیباتر خواهد کرد."
+
+#. Theme Name of the theme
+msgid "Twenty Sixteen"
+msgstr "دوهزار و شانزده"
 
 #: functions.php:204
 msgid "Bright Red"
@@ -183,15 +183,15 @@ msgctxt "Used before publish date."
 msgid "Posted on"
 msgstr "ارسال شده در"
 
-#: inc/template-tags.php:40
-msgctxt "Used before post format."
-msgid "Format"
-msgstr "ساختار"
-
 #. translators: %s: Post title.
 #: inc/template-tags.php:53
 msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
 msgstr "<span class=\"screen-reader-text\"> برای %s</span> دیدگاهی بنویسید"
+
+#: inc/template-tags.php:40
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "ساختار"
 
 #: inc/template-tags.php:26
 msgctxt "Used before post author name."
@@ -210,10 +210,6 @@ msgstr "خاکستری"
 msgid "Dark"
 msgstr "تیره"
 
-#: inc/customizer.php:221
-msgid "Main Text Color"
-msgstr "رنگ متن اصلی"
-
 #: inc/customizer.php:317
 msgid "Default"
 msgstr "پیشفرض"
@@ -221,6 +217,10 @@ msgstr "پیشفرض"
 #: inc/customizer.php:242
 msgid "Secondary Text Color"
 msgstr "رنگ متن دوم"
+
+#: inc/customizer.php:221
+msgid "Main Text Color"
+msgstr "رنگ متن اصلی"
 
 #: inc/customizer.php:200
 msgid "Link Color"
@@ -230,19 +230,19 @@ msgstr "رنگ پیوند"
 msgid "Page Background Color"
 msgstr "رنگ زمینه صفحه"
 
-#: single.php:31 image.php:107
-msgctxt "Parent post link"
-msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
-msgstr "<span class=\"meta-nav\">منتشر شده در</span><span class=\"post-title\">%title</span>"
+#: inc/customizer.php:153
+msgid "Base Color Scheme"
+msgstr "طرح رنگ پایه"
 
 #. translators: %s: The current WordPress version.
 #: inc/back-compat.php:42 inc/back-compat.php:56 inc/back-compat.php:75
 msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
 msgstr "دوهزاروشانزده دستکم به وردپرس ۴٫۴ نیاز دارد. شما در حال حاضر از نگارش %s استفاده می‌کنید. لطفا پس از به‌روزرسانی، دوباره تلاش کنید."
 
-#: inc/customizer.php:153
-msgid "Base Color Scheme"
-msgstr "طرح رنگ پایه"
+#: single.php:31 image.php:107
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">منتشر شده در</span><span class=\"post-title\">%title</span>"
 
 #: image.php:77
 msgctxt "Used before full size attachment link."
@@ -270,40 +270,40 @@ msgstr "فهرست"
 msgid "Skip to content"
 msgstr "پرش به محتوا"
 
-#: functions.php:419
-msgid "expand child menu"
-msgstr "بازکردن زیرفهرست"
-
 #: functions.php:420
 msgid "collapse child menu"
 msgstr "بستن زیرفهرست"
+
+#: functions.php:419
+msgid "expand child menu"
+msgstr "بازکردن زیرفهرست"
 
 #: functions.php:338
 msgctxt "Inconsolata font: on or off"
 msgid "on"
 msgstr "off"
 
-#: functions.php:279
-msgid "Content Bottom 1"
-msgstr "زیرِ محتوا ۱"
-
-#: functions.php:281 functions.php:293
-msgid "Appears at the bottom of the content on posts and pages."
-msgstr "زیر محتوای نوشته‌ها و برگه‌ها نمایش داده خواهد شد"
-
-#: functions.php:291
-msgid "Content Bottom 2"
-msgstr "زیرِ محتوا ۲"
+#: functions.php:330
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "روشن"
 
 #: functions.php:322
 msgctxt "Merriweather font: on or off"
 msgid "on"
 msgstr "روشن"
 
-#: functions.php:330
-msgctxt "Montserrat font: on or off"
-msgid "on"
-msgstr "روشن"
+#: functions.php:291
+msgid "Content Bottom 2"
+msgstr "زیرِ محتوا ۲"
+
+#: functions.php:281 functions.php:293
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "زیر محتوای نوشته‌ها و برگه‌ها نمایش داده خواهد شد"
+
+#: functions.php:279
+msgid "Content Bottom 1"
+msgstr "زیرِ محتوا ۱"
 
 #: functions.php:267
 msgid "Sidebar"
@@ -355,13 +355,13 @@ msgstr "به نظر می‌رسد چیزی اینجا نیست. مایل هست�
 msgid "Oops! That page can&rsquo;t be found."
 msgstr "اوه! صفحه مورد نظر پیدا نشد."
 
-#. Theme URI of the theme
-msgid "https://wordpress.org/themes/twentysixteen/"
-msgstr "https://wordpress.org/themes/twentysixteen/"
-
 #. Author of the theme
 msgid "the WordPress team"
 msgstr "گروه وردپرس"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentysixteen/"
+msgstr "https://wordpress.org/themes/twentysixteen/"
 
 #. Author URI of the theme
 #: footer.php:60
